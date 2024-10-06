@@ -1,3 +1,3 @@
 # Mi Ejercicio Guia
 	
-Versión Inicial
+Versión con conexión desconexion
